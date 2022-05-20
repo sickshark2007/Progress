@@ -21,4 +21,4 @@ Progresso:Teste(playerid, progress)
 
 ---
 
-![img](https://github.com/skyMateus/Progress/blob/main/imagem_2022-05-20_172732768.png)
+![img](https://github.com/skyMateus/Progress/blob/main/imagem_2022-05-20_173344321.png) ![img](https://github.com/skyMateus/Progress/blob/main/imagem_2022-05-20_172732768.png)
