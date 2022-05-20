@@ -7,6 +7,7 @@ Include inspirada na barra de "Progresso" do [Brasil Play Shox]([brasilplayshox.
 public OnPlayerConnect(playerid)
 {
   CreateProgress(playerid, "Teste", DEFAULT_TIMER);
+  return 1;
 }
 
 Progresso:Teste(playerid, progress)
